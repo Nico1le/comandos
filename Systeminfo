@@ -1,0 +1,44 @@
+# COMANDO SYSTEMINFO 
+El comando siguiente te proporciona información de la configuración de tu ordenador.
+En esta lista verás datos tanto del sistema operativo como del hardware, como puede ser 
+la fecha de instalación original de Windows, la hora del último arranque, la versión de su 
+BIOS, la memoria total, la memoria disponible, las revisiones instaladas, las configuraciones
+de la tarjeta de red y más.
+#NOMBRE DEL HOST
+ DESKTOP-0HE3RNQ
+# NOMBRE SO
+ Microsoft Windows 11 Pro
+# VERSION SO 
+10.0.22621 N/D Compilación 22621
+# FABRICANTE SO
+ Microsoft Corporation
+#PROCESADOR 
+ 1 Procesadores instalados.
+[01]: AMD64 Family 23 Model 32 Stepping 1 AuthenticAMD ~1200 Mhz
+# TIPO DE SISTEMA 
+x64-based PC
+# VERSION BIOS 
+ LENOVO BUCN27WW, 13/10/2020
+# VALOR DE FRECUANCIA 
+ ~1200 Mhz
+# MEMORIA FISICA TOTAL
+   3.460 MB
+# MEMORIA FISICA DISPONIBLE
+ 555 MB
+# MEMORIA VIRTUAL: tamaño maximo
+  6.276 MB
+# MEMORIA VIRTUAL: disponible 
+ 2.118 MB
+# MEMORIA VIRTUAL: en uso 
+ 4.158 MB
+# TARJETAS DE RED 
+ 1 Tarjetas de interfaz de red instaladas.
+[01]: Qualcomm Atheros QCA9377 Wireless Network Adapter
+Nombre de conexión: Wi-Fi
+# COMANDOS LINUX 
+
+# touch
+
+nos sirve para crear un nuevo archivo 
+--help nos sirve para conocer la informacion de este comando y lo que hace. por ejemplo 
+touch--c (do not create any files) /no crea nincgun archivo 
